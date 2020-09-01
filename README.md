@@ -1,2 +1,0 @@
-# TRIP2MOROCCO
-Trip2Morocco is an e-commerce and entertainment Roadtrips website created by a team of three colleagues in order to integrate this type of trip in Morocco.,and adopt advanced methods of prevention and security for those passionates about travel and exploration. Trip2Morocco is also a means of marketing and communication which will help many e-commerce companies in different niches to increase their sales.
